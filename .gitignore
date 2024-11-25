@@ -1,0 +1,7 @@
+#venv git ignore
+venv/
+env/
+.env/
+.venv/
+
+test_water.csv
